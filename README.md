@@ -3,4 +3,4 @@
 <p><em>Graduate Materials Science and Engineering student at <a href="https://www.ruet.ac.bd/">RUET</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
  </br> Intern Web Developer at <a href="https://qubitechbd.com/"> Qubitech</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  </br></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirim)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirim&show_icons=true&theme=radical)
