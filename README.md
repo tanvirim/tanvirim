@@ -7,7 +7,7 @@
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const tanvirMitul = {
-  code: [Javascript,Nodejs, HTML, CSS, Python],
+  code: [Javascript,Typescript,Nodejs, HTML, CSS, Python],
   web_technologies: [React, Node js, Mern stack,  Git, Github],
   skills: [Web Development, Graphics Design,  Video Editing],
   extra_softwere_skills: ["Adobe Photoshop", "Adobe Premieer Pro", "Adobe Illustrator",],
