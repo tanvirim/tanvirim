@@ -20,3 +20,5 @@ const tanvirMitul = {
 <p> <img align = "center" src="https://github-readme-stats.vercel.app/api?username=tanvirim&show_icons=true&theme=radical" alt="Tanvir mitul's streak" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirim&theme=radical" alt="Tanvir Mitul's streak" /> </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirim&theme=radical)
