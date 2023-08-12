@@ -17,8 +17,28 @@ const tanvirMitul = {
    }
 }
 ```
-<p> <img align = "center" src="https://github-readme-stats.vercel.app/api?username=tanvirim&show_icons=true&theme=radical" alt="Tanvir mitul's streak" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirim&theme=radical" alt="Tanvir Mitul's streak" /> </p>
+<p align="center" width="500" height="300"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirim&theme=radical" alt="Tanvir Mitul's streak" /> </p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tanvirim&show_icons=true&theme=radical" alt="Tanvir Mitul's streak" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirim&theme=radical)
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+    <p >
+      <a href="https://github.com/tanvirim">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirim&theme=radical" alt="Top Languages" />
+        </a>
+     </p>
+    </td align="center">
+    <td width="50%">
+      <a  href="https://app.daily.dev/tanvirim">
+        <img src="https://api.daily.dev/devcards/f8d4925d40ee4e31870be2bddc6d4e78.png?r=cgi" width="200" alt="Tanvir Mitul's Dev Card" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
